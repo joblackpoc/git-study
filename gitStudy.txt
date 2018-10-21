@@ -23,7 +23,8 @@ $ git commit -m "this is how you can edit multiple files"
 $ git diff => tell different what happen
 $ git rm (file name) => delete file
 
-# If you changed file name manual you add file first and then you rm the original name of file
-# after that check git status it will tell renamed original name -> new name and then commit it 
+## If you changed file name manual you add file first and then you rm the original name of file
+## after that check git status it will tell renamed original name -> new name and then commit it 
  
 $ git mv Git_study.txt gitStudy.txt => rename by git command
+$ git mv gitStudy.txt Note/gitstudy.txt => move gitStudy.txt to folder Note
