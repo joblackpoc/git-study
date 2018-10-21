@@ -1,5 +1,5 @@
-$ git config --global user.name "joblackpoc"
-$ git config --global user.email "duopoc@gmail.com"
+$ git config --global user.name "jooooooc"
+$ git config --global user.email "dooooo@gmail.com"
 $ clear
 $ git config user.name
 $ git config user.email
@@ -20,4 +20,6 @@ $ git add (file name) => add file
 $ git commit -m "another message"
 $ git add .
 $ git commit -m "this is how you can edit multiple files"
-$ git diff
+$ git diff => tell different what happen
+$ git rm (file name) => delete file
+$ 
