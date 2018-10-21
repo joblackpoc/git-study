@@ -1,3 +1,4 @@
+#
 $ git config --global user.name "jooooooc"
 $ git config --global user.email "dooooo@gmail.com"
 $ clear
@@ -22,7 +23,7 @@ $ git add .
 $ git commit -m "this is how you can edit multiple files"
 $ git diff => tell different what happen
 $ git rm (file name) => delete file
-
+#
 ## If you changed file name manual you add file first and then you rm the original name of file
 ## after that check git status it will tell renamed original name -> new name and then commit it 
  
