@@ -10,3 +10,8 @@ $ cd .. => change directory up
 $ ls => list all in folder
 $ cd (directory name) => change directory to directory name
 $ git init => start a git project
+$ ls -la
+$ git add . => add all everything made in the project
+$ git commit -m "firs commit" => save and tell reason what we made
+$ git log => tell history
+$ git log --author="joblackpoc" => tell history about only one author
