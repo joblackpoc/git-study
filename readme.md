@@ -1,4 +1,4 @@
-#
+# Learn git from thenewboston
 $ git config --global user.name "jooooooc"
 $ git config --global user.email "dooooo@gmail.com"
 $ clear
