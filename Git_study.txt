@@ -15,3 +15,9 @@ $ git add . => add all everything made in the project
 $ git commit -m "firs commit" => save and tell reason what we made
 $ git log => tell history
 $ git log --author="joblackpoc" => tell history about only one author
+$ git status 
+$ git add (file name) => add file
+$ git commit -m "another message"
+$ git add .
+$ git commit -m "this is how you can edit multiple files"
+$ git diff
