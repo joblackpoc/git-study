@@ -1,0 +1,12 @@
+$ git config --global user.name "joblackpoc"
+$ git config --global user.email "duopoc@gmail.com"
+$ clear
+$ git config user.name
+$ git config user.email
+$ git help
+$ git help commit
+$ pwd
+$ cd .. => change directory up
+$ ls => list all in folder
+$ cd (directory name) => change directory to directory name
+$ git init => start a git project
